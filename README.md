@@ -1,1 +1,1 @@
-oh my posh config
+#oh my posh config
